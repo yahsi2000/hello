@@ -1,5 +1,5 @@
 nd.test01 = {
     load: function(){
-        alert("test02")
+        alert("test02-02")
     }
 }
